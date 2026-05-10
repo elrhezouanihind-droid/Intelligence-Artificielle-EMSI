@@ -1,0 +1,5 @@
+PyQt5 (Interface desktop).  
+scikit-learn (Modèles IA: Régression, RF, Neurones). 
+matplotlib (Graphiques 2D/3D). 
+statsmodels (ARIMA).
+numpy (Calculs). 
